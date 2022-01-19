@@ -41,7 +41,7 @@ def sendwhatsapp():
     time.sleep(5)
     keyboard.write("UAE, on ")
     keyboard.write(localtime)
-    keyboard.write(":")
+    keyboard.write(" :")
     keyboard.write("\n")
     keyboard.write(cases)
     keyboard.write("\n")
